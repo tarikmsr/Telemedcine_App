@@ -32,7 +32,7 @@ Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Té
 ![photo1661516221 (5)](https://user-images.githubusercontent.com/64175026/186902247-d31dac66-e3fd-4a3a-a3e0-85f59743c339.jpeg)
 
 
-# partage du licalisation
+# partage du localisation
 
 ![image](https://user-images.githubusercontent.com/64175026/186900797-39bb3e58-3c23-4302-a51d-6bb6f184740e.png)
 
