@@ -16,8 +16,6 @@ Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Té
 #Authentification
 
 ![image](https://user-images.githubusercontent.com/64175026/186900702-9c20cf05-56e3-4722-9d55-4bc57149e40c.png)
-
-
 ![image](https://user-images.githubusercontent.com/64175026/186900719-0fdb6dbc-a836-4076-8faa-8854fb50284a.png)
 
 
