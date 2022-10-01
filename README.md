@@ -22,39 +22,80 @@ Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Té
 
 # Les services principaux
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392386-d1947e41-7de4-4c45-8c36-28cf92885aa5.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392440-9f79d041-9b98-4fa0-9383-0296d62472d7.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392422-26dd3ed1-d901-41af-ab47-8cba213d7a48.jpeg"  width="300"  >
+</p>
 
-![photo1661516221 (7)](https://user-images.githubusercontent.com/64175026/186902187-9ca83d3b-dce2-464d-aef7-8560d8a42119.jpeg)
 
 
 # La disponibilité des praticiens
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193387070-f05a8147-1bcd-417b-99e3-b2474fbcaa70.jpeg"  width="300"  >
+
+<img src="https://user-images.githubusercontent.com/64175026/193387121-14d9a370-b017-4123-b227-0879a1a61fdc.jpeg"  width="300"  >
+</p>
 
 
-![photo1661516221 (5)](https://user-images.githubusercontent.com/64175026/186902247-d31dac66-e3fd-4a3a-a3e0-85f59743c339.jpeg)
 
 
-# partage du localisation
+# Share localisation
 
-![image](https://user-images.githubusercontent.com/64175026/186900797-39bb3e58-3c23-4302-a51d-6bb6f184740e.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/186900797-39bb3e58-3c23-4302-a51d-6bb6f184740e.jpeg"  width="300"  >
+</p>
 
 
 # Formulaire
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392538-ee621c8a-fdd7-4b21-8f12-8bd577c2ba83.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392543-2240a53b-0d40-4e2e-9b88-5750e59c8bd9.jpeg"  width="300"  >
+</p>
 
-![image](https://user-images.githubusercontent.com/64175026/186901016-999e9e46-cff7-42da-b84b-76bb79d387d0.png)
+
 
 
 # les Rendez-vous
 
-![photo1661516221 (4)](https://user-images.githubusercontent.com/64175026/186902323-1ed8e489-e9ae-40b6-b099-d45784c47334.jpeg)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392601-a725dd4c-347b-4b5c-9411-33c809ec611c.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392607-98754b06-384b-428b-87e0-ebf2015bea12.jpeg"  width="300"  >
+</p>
 
 
-# details du rendez-vous
+# Details du rendez-vous
 
-![photo1661516221](https://user-images.githubusercontent.com/64175026/186902421-d204579e-1183-4c63-b6ce-d351353b74e9.jpeg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392614-583ae122-b43c-4498-9df5-6d10e2218cbe.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392616-98aaf1f6-6427-48f0-b3fd-6c90ee7b0d7e.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392621-a818d45d-222e-441b-b583-6d0ff4cb573a.jpeg"  width="300"  >
+</p>
+
 
 
 # Paiement en ligne avec la solution de la CMI Maroc
 
+
+
+
+
+# Medical Record
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392782-24154f61-7afa-4eab-938e-d0f089067801.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392781-6f4b03fb-8d48-4832-b6bf-1cf26db2cd23.jpeg"  width="300"  >
+</p>
+
+
+# Other Mobile interfaces
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/193392918-0a9da602-c8cc-44ef-a43f-f85a19a5e4d1.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392977-e4b75561-abbf-4a35-8566-e08808949516.jpeg"  width="300"  >
+</p>
 
 
 ## Parmi interfaces de l'application web
