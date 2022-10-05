@@ -99,7 +99,7 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 </p>
 
 
-## Parmi interfaces de l'application web
+## Parmi les interfaces de l'application web
 
 ![image](https://user-images.githubusercontent.com/64175026/186903504-34c18a6d-6e77-47fe-b572-19095234c131.png)
 
