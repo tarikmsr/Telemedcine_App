@@ -95,13 +95,12 @@ Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Té
 # Other Mobile interfaces
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64175026/193392918-0a9da602-c8cc-44ef-a43f-f85a19a5e4d1.jpeg"  width="300"  >
-<img src="https://user-images.githubusercontent.com/64175026/193392977-e4b75561-abbf-4a35-8566-e08808949516.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/194102013-a324beda-5974-404c-860a-e7f824874b08.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/194102450-a993e228-cb19-4bed-b091-25c06557a07e.jpeg"  width="300"  >
 </p>
 
 
 ## Parmi interfaces de l'application web
-
 
 ![image](https://user-images.githubusercontent.com/64175026/186903504-34c18a6d-6e77-47fe-b572-19095234c131.png)
 
