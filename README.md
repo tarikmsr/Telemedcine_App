@@ -87,8 +87,9 @@ Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Té
 # Dossier Medical
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64175026/193392782-24154f61-7afa-4eab-938e-d0f089067801.jpeg"  width="300"  >
-<img src="https://user-images.githubusercontent.com/64175026/193392781-6f4b03fb-8d48-4832-b6bf-1cf26db2cd23.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392782-24154f61-7afa-4eab-938e-d0f089067801.jpeg"  width="250"  >
+<img src="https://user-images.githubusercontent.com/64175026/193392781-6f4b03fb-8d48-4832-b6bf-1cf26db2cd23.jpeg"  width="250"  >
+ <img src="https://user-images.githubusercontent.com/64175026/194103461-727dd27d-b39c-4d53-8f89-fdfeaa4bfaa9.jpeg"  width="250"  >
 </p>
 
 
