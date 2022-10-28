@@ -16,10 +16,10 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 #Authentification
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64175026/186900702-9c20cf05-56e3-4722-9d55-4bc57149e40c.png"  width="250"  >
-<img src="https://user-images.githubusercontent.com/64175026/186900719-0fdb6dbc-a836-4076-8faa-8854fb50284a.png"  width="250"  >
-<img src="https://user-images.githubusercontent.com/64175026/186900730-3fe3a734-3909-4a44-9219-dbf6379141d0.png"  width="250"  >
+<img src="https://user-images.githubusercontent.com/64175026/198577236-503ced08-c0ee-4ef4-b654-9d3fdf4940cd.gif"  width="300"  >
 </p>
+
+
 
 # Les services principaux
 
