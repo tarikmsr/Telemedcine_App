@@ -4,7 +4,7 @@
 Mots clé :  Flutter - Angular - Firebase - Développement mobile et web – Télémédecine – Encryptions AES – Gestion des Rendez-vous – Consultation vidéo – paiement en ligne.
 
 
-ce projet consiste à l'étude, la conception et la réalisation d'une application mobile qui permet la digitalisation des offres de soins, la télémédecine et de faciliter l'accès aux patients à leur dossiers médicaux, faciliter la prise de rendez-vous en ligne avec la possibilité de faire des consultations vidéo et aussi de payer la facture en ligne. 
+Ce projet consiste à l'étude, la conception et la réalisation d'une application mobile qui permet la digitalisation des offres de soins, la télémédecine et de faciliter l'accès aux patients à leur dossiers médicaux, faciliter la prise de rendez-vous en ligne avec la possibilité de faire des consultations vidéo et aussi de payer la facture en ligne. 
  
  
  Et d'une autre part, une application web qui permet la gestion des demandes des offres de soins, elle est destinée à être utilisée par n'importe quel organisme de santé pour gérer ses demandes.
