@@ -9,7 +9,6 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
  
  Et d'une autre part, une application web qui permet la gestion des demandes des offres de soins, elle est destinée à être utilisée par n'importe quel organisme de santé pour gérer ses demandes.
 
-
 # Les interfaces de la partie Mobile     version 1.0.0
 
 
@@ -50,9 +49,8 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/64175026/193392538-ee621c8a-fdd7-4b21-8f12-8bd577c2ba83.jpeg"  width="300"  >
-<img src="https://user-images.githubusercontent.com/64175026/193392543-2240a53b-0d40-4e2e-9b88-5750e59c8bd9.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026//198580549-4f006cb2-1bdc-4d40-b80c-9ba9f0533249.png"  width="300"  >
 </p>
-
 
 
 
