@@ -33,11 +33,10 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 
 # La disponibilité des praticiens
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64175026/193387070-f05a8147-1bcd-417b-99e3-b2474fbcaa70.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/198578400-5b709c94-c4d5-4b17-87ce-b7b8e63156d3.png"  width="300"  >
 
-<img src="https://user-images.githubusercontent.com/64175026/193387121-14d9a370-b017-4123-b227-0879a1a61fdc.jpeg"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64175026/198578322-afcbb5ed-7971-4a88-af39-dca418a6e600.png"  width="300"  >
 </p>
-
 
 
 
