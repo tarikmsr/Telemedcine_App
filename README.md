@@ -78,6 +78,10 @@ ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 # Paiement en ligne avec la solution de la CMI Maroc
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64175026/198579046-da447003-4ead-4aa6-9203-5d734409904f.png"  width="250"  >
+</p>
+
 
 # Dossier Medical
 
