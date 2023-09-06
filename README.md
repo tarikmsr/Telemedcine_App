@@ -108,6 +108,5 @@ Ce projet consiste à l'étude, la conception et la réalisation d'une applicati
 
 
 
-# ce projet est en cours de réalisation ...
 
 
